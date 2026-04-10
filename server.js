@@ -66,4 +66,3 @@ app.listen(PORT, () => {
     console.log(`AI Proxy Server running on port ${PORT}`);
     console.log('OpenAI API Key configured:', OPENAI_API_KEY ? 'Yes' : 'No');
 });
-    ]],
